@@ -1,3 +1,14 @@
+/*
+Given a string s and a dictionary of words dict,
+determine if s can be segmented into a space-separated sequence of one or more dictionary words.
+
+For example, given
+s = "leetcode",
+dict = ["leet", "code"].
+
+Return true because "leetcode" can be segmented as "leet code".
+*/
+
 #include <unordered_set>
 #include <string>
 #include <vector>
@@ -16,6 +27,7 @@ public:
             return false;
         }
         int size = static_cast<int>(s.size());
+        // dp_array的每个元素代表着下标0~当前元素的子序列是否成功匹配, 1表示成功匹配, 0表示无匹配
         vector<int> dp_array(size, 0);
         for (int i = 0; i < size; ++i)
         {
