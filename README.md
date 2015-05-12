@@ -10,6 +10,10 @@ This is my exercise for leetcode.
 |2  | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | C++ | Medium |
 |3  | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | C++ | Medium |
 |4  | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | C++ | Hard |
+|5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | C++ | Medium |
+|6  | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | C++ | Easy |
+|7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | C++ | Easy |
+|8  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | C++ | Easy |
 |9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | C++ | Easy |
 |76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | C++ | Hard |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
