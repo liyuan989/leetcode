@@ -20,6 +20,7 @@ This is my exercise for leetcode.
 |12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | C++ | Medium |
 |13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | C++ | Medium |
 |14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | C++ | Easy |
+|15 | [3Sum](https://leetcode.com/problems/3sum/) | C++ | Medium |
 |76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | C++ | Hard |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
