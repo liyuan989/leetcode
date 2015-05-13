@@ -15,6 +15,11 @@ This is my exercise for leetcode.
 |7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | C++ | Easy |
 |8  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | C++ | Easy |
 |9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | C++ | Easy |
+|10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | C++ | Hard |
+|11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | C++ | Medium |
+|12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | C++ | Medium |
+|13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | C++ | Medium |
+|14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | C++ | Easy |
 |76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | C++ | Hard |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
