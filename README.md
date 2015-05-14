@@ -21,6 +21,14 @@ This is my exercise for leetcode.
 |13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | C++ | Medium |
 |14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | C++ | Easy |
 |15 | [3Sum](https://leetcode.com/problems/3sum/) | C++ | Medium |
+|16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | C++ | Medium |
+|17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | C++ | Medium |
+|18 | [4Sum](https://leetcode.com/problems/4sum/) | C++ | Medium |
+|19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | C++ | Easy |
+|20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | C++ | Easy |
+|21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | C++ | Easy |
+|22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | C++ | Medium |
+|23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | C++ | Hard |
 |76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | C++ | Hard |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
