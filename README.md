@@ -29,6 +29,7 @@ This is my exercise for leetcode.
 |21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | C++ | Easy |
 |22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | C++ | Medium |
 |23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | C++ | Hard |
+|24 | [Swap Nodes in Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/) | C++ | Medium |
 |76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | C++ | Hard |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
