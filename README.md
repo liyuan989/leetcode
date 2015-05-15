@@ -30,6 +30,12 @@ This is my exercise for leetcode.
 |22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | C++ | Medium |
 |23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | C++ | Hard |
 |24 | [Swap Nodes in Pairs ](https://leetcode.com/problems/swap-nodes-in-pairs/) | C++ | Medium |
+|25 | [Reverse Nodes in k-Group ](https://leetcode.com/problems/reverse-nodes-in-k-group/) | C++ | Hard |
+|26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | C++ | Easy |
+|27 | [Remove Element](https://leetcode.com/problems/remove-element/) | C++ | Easy |
+|28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | C++ | Easy |
+|29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | C++ | Medium |
+|30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | C++ | Hard |
 |76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | C++ | Hard |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
