@@ -29,50 +29,43 @@ public:
             return result;
         }
         unordered_map<string, int> expect;
-        unordered_map<string, int> hash;
         for (int i = 0; i < words.size(); ++i)
         {
             ++expect[words[i]];
-            hash[words[i]] = 0;
         }
-        int length = words.front().size();
+        int length = words[0].size();
         int s_size = s.size();
-        int prev = 0;
-        int last = 0;
-        while (last < s_size - length + 1)
+        for (int i = 0; i < length; ++i)
         {
-            for (unordered_map<string, int>::iterator it = hash.begin(); it != hash.end(); ++it)
-            {
-                it->second = 0;
-            }
-            while (last < s_size - length + 1 && hash.find(s.substr(last, length)) == hash.end())
-            {
-                ++last;
-            }
-            prev = last;
+            unordered_map<string, int> hash;
             int count = 0;
-            while (last < s_size - length + 1 && count < length && hash.find(s.substr(last, length)) != hash.end())
+            for (int prev = i, last = i; last + length <= s_size; last += length)
             {
-                ++hash[s.substr(last, length)];
-                last += length;
-                ++count;
-            }
-            if (count == words.size())
-            {
-                int val = prev;
-                bool flag = true;
-                while (prev < last)
+                string sub = s.substr(last, length);
+                if (expect.find(sub) == expect.end())
                 {
-                    string sub = s.substr(prev, length);
-                    if (hash[sub] != expect[sub])
+                    hash.clear();
+                    count = 0;
+                    prev = last + length;
+                    continue;
+                }
+                ++count;
+                ++hash[sub];
+                if (hash[sub] > expect[sub])
+                {
+                    while (s.substr(prev, length) != sub)
                     {
-                        flag = false;
+                        --hash[s.substr(prev, length)];
+                        --count;
+                        prev += length;
                     }
+                    --hash[s.substr(prev, length)];
+                    --count;
                     prev += length;
                 }
-                if (flag)
+                if (count == words.size())
                 {
-                    result.push_back(val);
+                    result.push_back(prev);
                 }
             }
         }
@@ -84,12 +77,12 @@ int main(int argc, char* argv[])
 {
     Solution s;
     vector<string> v;
-    v.push_back("mississippis");
-    vector<int>&& r = s.findSubstring("mississippi", v);
-    for (auto i : r)
+    v.push_back("foo");
+    v.push_back("bar");
+    vector<int>&& result = s.findSubstring("barfoothefoobarman", v);
+    for (auto i : result)
     {
         printf("%d ", i);
     }
-    printf("\n");
     return 0;
 }
