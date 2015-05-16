@@ -36,6 +36,8 @@ This is my exercise for leetcode.
 |28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | C++ | Easy |
 |29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | C++ | Medium |
 |30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | C++ | Hard |
+|31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | C++ | Medium |
+|32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | C++ | Hard |
 |76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | C++ | Hard |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
