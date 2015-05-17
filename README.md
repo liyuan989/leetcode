@@ -38,6 +38,10 @@ This is my exercise for leetcode.
 |30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | C++ | Hard |
 |31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | C++ | Medium |
 |32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | C++ | Hard |
+|33 | [Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/) | C++ | Hard |
+|34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | C++ | Medium |
+|35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | C++ | Medium |
+|36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | C++ | Easy |
 |76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | C++ | Hard |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
