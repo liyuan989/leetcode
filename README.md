@@ -42,6 +42,11 @@ This is my exercise for leetcode.
 |34 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/) | C++ | Medium |
 |35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | C++ | Medium |
 |36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | C++ | Easy |
+|37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | C++ | Hard |
+|38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | C++ | Easy |
+|39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | C++ | Medium |
+|40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | C++ | Medium |
+|41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | C++ | Hard |
 |76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | C++ | Hard |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
