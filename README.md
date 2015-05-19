@@ -47,6 +47,17 @@ This is my exercise for leetcode.
 |39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | C++ | Medium |
 |40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | C++ | Medium |
 |41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | C++ | Hard |
+|42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | C++ | Hard |
+|43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | C++ | Medium |
+|44 | [Wildcard Matching](https://leetcode.com/problemset/algorithms/) | C++ | Hard |
+|45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | C++ | Hard |
+|46 | [Permutations](https://leetcode.com/problems/permutations/) | C++ | Medium |
+|47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | C++ | Hard |
+|48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | C++ | Medium |
+|49 | [Anagrams](https://leetcode.com/problems/anagrams/) | C++ | Medium |
+|50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | C++ | Medium |
+|51 | [N-Queens](https://leetcode.com/problems/n-queens/) | C++ | Hard |
+|52 | [N-Queens II ](https://leetcode.com/problems/n-queens-ii/) | C++ | Hard |
 |76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | C++ | Hard |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
