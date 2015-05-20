@@ -58,6 +58,14 @@ This is my exercise for leetcode.
 |50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | C++ | Medium |
 |51 | [N-Queens](https://leetcode.com/problems/n-queens/) | C++ | Hard |
 |52 | [N-Queens II ](https://leetcode.com/problems/n-queens-ii/) | C++ | Hard |
+|53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | C++ | Medium |
+|54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | C++ | Medium |
+|55 | [Jump Game](https://leetcode.com/problems/jump-game/) | C++ | Medium |
+|56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | C++ | Hard |
+|57 | [Insert Interval](https://leetcode.com/problemset/algorithms/) | C++ | Hard |
+|58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | C++ | Easy |
+|59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | C++ | Medium |
+|60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | C++ | Medium |
 |76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | C++ | Hard |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
