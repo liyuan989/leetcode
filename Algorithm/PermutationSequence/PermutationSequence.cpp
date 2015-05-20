@@ -23,8 +23,39 @@ using namespace std;
 class Solution
 {
 public:
-    // Time Limit Exceeded
+    // efficient.
+    // use math method.
     string getPermutation(int n, int k)
+    {
+        string base;
+        base.reserve(n);
+        int total = 1;
+        for (int i = 1; i <= n; ++i)
+        {
+            base.push_back('0' + i);
+            total *= i;
+        }
+        string result;
+        if (total < k)
+        {
+            return result;
+        }
+        int group = total;
+        --k;
+        while (n > 0)
+        {
+            group = group / n;
+            int index = k / group;
+            result.push_back(base[index]);
+            base.erase(base.begin() + index);
+            k = k % group;
+            --n;
+        }
+        return result;
+    }
+
+    // Time Limit Exceeded
+    string getPermutation_normal(int n, int k)
     {
         string base;
         base.reserve(n);
