@@ -48,7 +48,8 @@ public:
             int index = k / group;
             result.push_back(base[index]);
             base.erase(base.begin() + index);
-            k = k % group;
+            //k = k % group;  this can also work.
+            k = k - index * group;
             --n;
         }
         return result;
