@@ -66,6 +66,11 @@ This is my exercise for leetcode.
 |58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | C++ | Easy |
 |59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | C++ | Medium |
 |60 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | C++ | Medium |
+|61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | C++ | Medium |
+|62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | C++ | Medium |
+|63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | C++ | Medium |
+|64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | C++ | Medium |
+|65 | [Valid Number](https://leetcode.com/problems/valid-number/) | C++ | Hard |
 |76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | C++ | Hard |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
