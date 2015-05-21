@@ -71,6 +71,12 @@ This is my exercise for leetcode.
 |63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | C++ | Medium |
 |64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | C++ | Medium |
 |65 | [Valid Number](https://leetcode.com/problems/valid-number/) | C++ | Hard |
+|66 | [Plus One](https://leetcode.com/problems/plus-one/) | C++ | Easy |
+|67 | [Add Binary](https://leetcode.com/problems/add-binary/) | C++ | Easy |
+|68 | [Text Justification](https://leetcode.com/problems/text-justification/) | C++ | Hard |
+|69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | C++ | Medium |
+|70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | C++ | Easy |
+|71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | C++ | Medium |
 |76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | C++ | Hard |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
