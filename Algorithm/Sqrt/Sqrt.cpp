@@ -18,7 +18,7 @@ public:
         }
         int64_t low = 0;
         int64_t high = x;
-        while (low + 1 < high)
+        while (low <= high)
         {
             int64_t pivot = low + (high - low) / 2;
             if (pivot * pivot == x)
@@ -27,14 +27,14 @@ public:
             }
             else if (pivot * pivot < x)
             {
-                low = pivot;
+                low = pivot + 1;
             }
             else
             {
-                high = pivot;
+                high = pivot - 1;
             }
         }
-        return low;
+        return high;
     }
 };
 

@@ -77,7 +77,15 @@ This is my exercise for leetcode.
 |69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | C++ | Medium |
 |70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | C++ | Easy |
 |71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | C++ | Medium |
+|72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | C++ | Hard |
+|73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | C++ | Medium |
+|74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | C++ | Medium |
+|75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | C++ | Medium |
 |76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | C++ | Hard |
+|77 | [Combinations](https://leetcode.com/problems/combinations/) | C++ | Medium |
+|78 | [Subsets](https://leetcode.com/problems/subsets/) | C++ | Medium |
+|79 | [Word Search](https://leetcode.com/problems/word-search/) | C++ | Medium |
+|80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | C++ | Medium |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
 |139| [Word Break](https://leetcode.com/problems/word-break/) | C++ | Medium |
