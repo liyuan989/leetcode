@@ -1,6 +1,6 @@
 LeetCode
 ========
-This is my exercise for leetcode. (completion 85/198)
+This is my exercise for leetcode. (progress 85/198)
 
 ## Algorithm
 
