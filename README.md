@@ -1,6 +1,6 @@
 LeetCode
 ========
-This is my exercise for leetcode. (progress 85/198)
+This is my exercise for leetcode. (progress 88/198)
 
 ## Algorithm
 
@@ -86,6 +86,9 @@ This is my exercise for leetcode. (progress 85/198)
 |78 | [Subsets](https://leetcode.com/problems/subsets/) | C++ | Medium |
 |79 | [Word Search](https://leetcode.com/problems/word-search/) | C++ | Medium |
 |80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | C++ | Medium |
+|81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | C++ | Medium |
+|82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | C++ | Medium |
+|83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | C++ | Easy |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
 |139| [Word Break](https://leetcode.com/problems/word-break/) | C++ | Medium |

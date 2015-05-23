@@ -92,7 +92,7 @@ public:
         for (int begin = 0, end = nums.size() - 1; begin < end;)
         {
             int index = (begin + end + 1) / 2;
-            if (nums[index - 1] > nums[index ])
+            if (nums[index - 1] > nums[index])
             {
                 return index;
             }
