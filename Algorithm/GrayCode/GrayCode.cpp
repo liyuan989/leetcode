@@ -26,6 +26,7 @@ using namespace std;
 class Solution
 {
 public:
+    // mathematics method, http://en.wikipedia.org/wiki/Gray_code
     vector<int> grayCode(int n)
     {
         vector<int> result;
@@ -33,30 +34,50 @@ public:
         {
             return result;
         }
-        vector<int> number;
-        number.reserve(n);
-        solve(number, n, result);
+        int size = 1 << n;
+        result.reserve(size);
+        for (int i = 0; i < size; ++i)
+        {
+            result.push_back((i >> 1) ^ i);
+        }
         return result;
     }
 
-    void solve(vector<int>& number, int index, vector<int>& result)
+    // if n = 3 :
+    //
+    // 000 - 0
+    // 001 - 1
+    // 011 - 3
+    // 010 - 2
+    // 110 - 6
+    // 111 - 7
+    // 101 - 5
+    // 100 - 4
+    //
+    // what to do is only to make or operation for (1 << (n - 1)) | gray(n - 1).
+    // gray(n) means all n bit gray codes.
+    vector<int> grayCode_2(int n)
     {
-        if (index == 0)
+        vector<int> result;
+        if (n < 0)
         {
-            int sum = 0;
-            for (int i = number.size() - 1; i >= 0; --i)
+            return result;
+        }
+        result.push_back(0);
+        if (n == 0)
+        {
+            return result;
+        }
+        result.push_back(1);
+        for (int k = 2; k <= n; ++k)
+        {
+            int size = result.size();
+            for (int i = size - 1; i >= 0; --i)
             {
-                sum = sum * 2 + number[i];
+                result.push_back(result[i] | (1 << (k - 1)));
             }
-            result.push_back(sum);
-            return;
         }
-        for (int i = 0; i < 2; ++i)
-        {
-            number.push_back(i);
-            solve(number, index - 1, result);
-            number.pop_back();
-        }
+        return result;
     }
 };
 
@@ -64,6 +85,12 @@ int main(int argc, char* argv[])
 {
     Solution s;
     vector<int>&& result = s.grayCode(2);
+    for (auto i : result)
+    {
+        printf("%d\n", i);
+    }
+    printf("------------\n");
+    result = s.grayCode_2(2);
     for (auto i : result)
     {
         printf("%d\n", i);
