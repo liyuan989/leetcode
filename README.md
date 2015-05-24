@@ -1,6 +1,6 @@
 LeetCode
 ========
-This is my exercise for leetcode. (progress 91/198)
+This is my exercise for leetcode. (progress 94/198)
 
 ## Algorithm
 
@@ -92,7 +92,11 @@ This is my exercise for leetcode. (progress 91/198)
 |84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | C++ | Hard |
 |85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | C++ | Hard |
 |86 | [Partition List](https://leetcode.com/problems/partition-list/) | C++ | Medium |
+|87 | [Scramble String](https://leetcode.com/problems/scramble-string/) | C++ | Hard |
+|88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | C++ | Easy |
+|89 | [Gray Code](https://leetcode.com/problems/gray-code/) | C++ | Medium |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
+|91 | [Scramble String](https://leetcode.com/problems/scramble-string/) | C++ | Hard |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
 |139| [Word Break](https://leetcode.com/problems/word-break/) | C++ | Medium |
 |171| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | C++ | Easy |
