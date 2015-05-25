@@ -19,6 +19,16 @@ using namespace std;
 class Solution
 {
 public:
+    //DP solution
+    //
+    //dp[i][j] means s1[0...i] and s2[0...j] match s3[0...i+j]
+    //
+    //formula:
+    //
+    //dp[i][j] = (s1[i-1] == s3[i+j-1] && dp[i-1][j]) ||
+    //           (s2[j-1] == s3[i+j-1] && dp[i][j-1])
+    //
+    //dp[0][0] = 1
     bool isInterleave(const string& s1, const string& s2, const string& s3)
     {
         int size1 = s1.size();
