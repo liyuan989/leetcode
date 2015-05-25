@@ -1,6 +1,6 @@
 LeetCode
 ========
-This is my exercise for leetcode. (progress 94/198)
+This is my exercise for leetcode. (progress 103/200)
 
 ## Algorithm
 
@@ -96,8 +96,16 @@ This is my exercise for leetcode. (progress 94/198)
 |88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | C++ | Easy |
 |89 | [Gray Code](https://leetcode.com/problems/gray-code/) | C++ | Medium |
 |90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | C++ | Medium |
-|91 | [Scramble String](https://leetcode.com/problems/scramble-string/) | C++ | Hard |
+|91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | C++ | Hard |
+|92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | C++ | Medium |
+|93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | C++ | Medium |
+|94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | C++ | Medium |
+|95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | C++ | Medium |
+|96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | C++ | Medium |
+|97 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
 |139| [Word Break](https://leetcode.com/problems/word-break/) | C++ | Medium |
+|144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | C++ | Medium |
+|145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | C++ | Hard |
 |171| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | C++ | Easy |
 |191| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | C++ | Easy |
