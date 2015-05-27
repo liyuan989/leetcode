@@ -1,6 +1,6 @@
 LeetCode
 ========
-This is my exercise for leetcode. (progress 106/202)
+This is my exercise for leetcode. (progress 109/202)
 
 ## Algorithm
 
@@ -106,6 +106,9 @@ This is my exercise for leetcode. (progress 106/202)
 |98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | C++ | Medium |
 |99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | C++ | Hard |
 |100| [Same Tree](https://leetcode.com/problems/same-tree/) | C++ | Easy |
+|101| [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | C++ | Easy |
+|102| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | C++ | Easy |
+|103| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
 |139| [Word Break](https://leetcode.com/problems/word-break/) | C++ | Medium |
 |144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | C++ | Medium |
