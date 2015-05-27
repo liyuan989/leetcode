@@ -1,6 +1,6 @@
 LeetCode
 ========
-This is my exercise for leetcode. (progress 109/202)
+This is my exercise for leetcode. (progress 116/202)
 
 ## Algorithm
 
@@ -109,7 +109,14 @@ This is my exercise for leetcode. (progress 109/202)
 |101| [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | C++ | Easy |
 |102| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | C++ | Easy |
 |103| [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | C++ | Medium |
+|104| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | C++ | Easy |
+|105| [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | C++ | Medium |
+|106| [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | C++ | Medium |
+|107| [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | C++ | Easy |
+|108| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | C++ | Medium |
 |109| [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | C++ | Medium |
+|110| [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | C++ | Easy |
+|111| [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | C++ | Easy |
 |139| [Word Break](https://leetcode.com/problems/word-break/) | C++ | Medium |
 |144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | C++ | Medium |
 |145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | C++ | Hard |
