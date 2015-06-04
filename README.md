@@ -1,6 +1,6 @@
 LeetCode
 ========
-This is my exercise for leetcode. (progress 122/205)
+This is my exercise for leetcode. (progress 125/205)
 
 ## Algorithm
 
@@ -123,6 +123,9 @@ This is my exercise for leetcode. (progress 122/205)
 |115| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | C++ | Hard |
 |116| [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | C++ | Medium |
 |117| [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | C++ | Hard |
+|118| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | C++ | Easy |
+|119| [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | C++ | Easy |
+|120| [Triangle](https://leetcode.com/problems/triangle/) | C++ | Medium |
 |139| [Word Break](https://leetcode.com/problems/word-break/) | C++ | Medium |
 |144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | C++ | Medium |
 |145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | C++ | Hard |
