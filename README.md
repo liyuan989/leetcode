@@ -136,6 +136,7 @@ This is my exercise for leetcode. (progress 131/210)
 |128| [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | C++ | Hard |
 |129| [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | C++ | Medium |
 |130| [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | C++ | Medium |
+|131| [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | C++ | Medium |
 |139| [Word Break](https://leetcode.com/problems/word-break/) | C++ | Medium |
 |144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | C++ | Medium |
 |145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | C++ | Hard |
