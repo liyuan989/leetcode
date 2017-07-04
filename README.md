@@ -141,6 +141,8 @@ This is my exercise for leetcode. (progress 131/210)
 |133| [Clone Graph](https://leetcode.com/problems/clone-graph) | C++ | Medium |
 |134| [Gas Station](https://leetcode.com/problems/gas-station/) | C++ | Medium |
 |135| [Candy](https://leetcode.com/problems/candy/) | C++ | Hard |
+|136| [Single Number](https://leetcode.com/problems/single-number/) | C++ | Easy |
+|137| [Single Number II](https://leetcode.com/problems/single-number-ii/) | C++ | Medium |
 |139| [Word Break](https://leetcode.com/problems/word-break/) | C++ | Medium |
 |144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | C++ | Medium |
 |145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | C++ | Hard |
