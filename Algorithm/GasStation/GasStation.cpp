@@ -25,7 +25,7 @@ public:
                 start = i; 
                 sum = gas[i] - cost[i];
             } else {
-                sum += gas[i] + cost[i];
+                sum += gas[i] - cost[i];
             }
         }
         return diff < 0 ? -1 : start;
