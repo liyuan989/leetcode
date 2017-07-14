@@ -148,6 +148,9 @@ This is my exercise for leetcode. (progress 131/210)
 |140| [Word Break II](https://leetcode.com/problems/word-break-ii/) | C++ | Hard |
 |144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | C++ | Medium |
 |145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | C++ | Hard |
+|152| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | C++ | Medium |
 |171| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | C++ | Easy |
+|174| [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | C++ | Hard |
+|188| [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | C++ | Hard |
 |191| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | C++ | Easy |
 |226| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | C++ | Easy |
