@@ -155,4 +155,5 @@ This is my exercise for leetcode. (progress 131/210)
 |191| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | C++ | Easy |
 |198| [House Robber](https://leetcode.com/problems/house-robber/) | C++ | Easy |
 |213| [House Robber II](https://leetcode.com/problems/house-robber-ii/) | C++ | Medium |
+|213| [Maximal Square](https://leetcode.com/problems/maximal-square/) | C++ | Medium |
 |226| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | C++ | Easy |
