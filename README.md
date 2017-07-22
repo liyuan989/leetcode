@@ -157,3 +157,7 @@ This is my exercise for leetcode. (progress 131/210)
 |213| [House Robber II](https://leetcode.com/problems/house-robber-ii/) | C++ | Medium |
 |213| [Maximal Square](https://leetcode.com/problems/maximal-square/) | C++ | Medium |
 |226| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | C++ | Easy |
+|264| [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | C++ | Medium |
+|279| [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | C++ | Medium |
+|300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | C++ | Medium |
+|303| [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | C++ | Easy |
