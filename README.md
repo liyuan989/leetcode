@@ -161,3 +161,4 @@ This is my exercise for leetcode. (progress 131/210)
 |279| [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | C++ | Medium |
 |300| [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | C++ | Medium |
 |303| [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | C++ | Easy |
+|304| [Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | C++ | Medium |
