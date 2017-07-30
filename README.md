@@ -146,6 +146,9 @@ This is my exercise for leetcode. (progress 131/210)
 |138| [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | C++ | Medium |
 |139| [Word Break](https://leetcode.com/problems/word-break/) | C++ | Medium |
 |140| [Word Break II](https://leetcode.com/problems/word-break-ii/) | C++ | Hard |
+|141| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | C++ | Easy |
+|142| [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | C++ | Medium |
+|143| [Reorder List](https://leetcode.com/problems/reorder-list/) | C++ | Medium |
 |144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | C++ | Medium |
 |145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | C++ | Hard |
 |152| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | C++ | Medium |
