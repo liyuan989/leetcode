@@ -151,6 +151,7 @@ This is my exercise for leetcode. (progress 131/210)
 |143| [Reorder List](https://leetcode.com/problems/reorder-list/) | C++ | Medium |
 |144| [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | C++ | Medium |
 |145| [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | C++ | Hard |
+|146| [LRU Cache](https://leetcode.com/problems/lru-cache/) | C++ | Hard |
 |152| [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | C++ | Medium |
 |171| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | C++ | Easy |
 |174| [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | C++ | Hard |
